@@ -1,5 +1,7 @@
 package main
 
-func Day5() {
+import "fmt"
 
+func Day5() {
+	fmt.Println("test")
 }
